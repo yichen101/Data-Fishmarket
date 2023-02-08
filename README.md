@@ -1,6 +1,6 @@
-#Fish Market
+# Fish Market
 
-#Task
+# Task
 Extract - Pull fish market data CSV file from AWS S3 bucket.
 
 Transform - Display data on the mean/average of each fish attribute.
