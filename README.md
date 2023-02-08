@@ -1,5 +1,7 @@
 # Fish Market
 
+A table containg fish market data is stored the cloud.
+
 # Task
 Extract - Pull fish market data CSV file from AWS S3 bucket.
 
