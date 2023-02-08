@@ -1,13 +1,7 @@
-# Fish Market
+# FishMarket
 
-A table containg fish market data is stored the cloud.
+Read the fish market CSV data from AWS S3 bucket
 
-# Task
-Extract - Pull fish market data CSV file from AWS S3 bucket.
+Transform the data, averaged by fish species
 
-Transform - Display data on the mean/average of each fish attribute.
-
-Load - Load to a new location within AWS S3 bucket.
-
-
-Extension: Convert the data into a format that can be stored in MongoDB
+Write a version of it that is transformed back to s3 - 'data-eng-resources/Data26/fish/your-name'
